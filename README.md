@@ -3,6 +3,9 @@ Hearing impaired and blind e-mail client app for Android
 
 ---
 
+https://arxiv.org/pdf/2205.04802.pdf
+
+https://www.hearingaidknow.com/samsung-deafblind-morse-code-good-vibes-app
 
 https://experiments.withgoogle.com/collection/morse
 
